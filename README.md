@@ -36,7 +36,7 @@ This project uses **two independent datasets** downloaded from Kaggle:
    - number of affected users
    - incident resolution time
 
-2. **[Cybersecurity Attacks](https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data)**  
+2. [Cybersecurity Attacks](https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data)
    Used as the supporting dataset for analyzing:
    - anomaly scores
    - severity level
