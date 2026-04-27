@@ -114,7 +114,7 @@ These datasets were analyzed separately because they describe different aspects 
 
 - The statistical tests did **not** provide enough evidence for strong significant differences in the tested cases.
 
-- The predictive models showed **limited performance**, especially for **Cyber Security Attacks**, which suggests that the available features do not explain severity very well on their own.
+- The predictive models showed **limited performance**, especially for **Global Cybersecurity Threats (2015-2024)**, which suggests that the available features do not explain severity very well on their own.
 
 ### Final Conclusion
 No single variable appeared to be a strong standalone driver of cyberattack severity in these datasets. Instead, severity seems to depend on a more complex combination of factors.
