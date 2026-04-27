@@ -103,14 +103,14 @@ These datasets were analyzed separately because they describe different aspects 
 
 ## Main Findings
 
-- In **Dataset 1**, some groups showed slightly higher average severity outcomes:
+- In **Global Cybersecurity Threats (2015-2024)**, some groups showed slightly higher average severity outcomes:
   - **DDoS** had the highest average financial loss
   - **IT** had the highest average number of affected users
   - **Unpatched Software** was linked to the longest average incident resolution time
 
 - However, these differences were generally **small**.
 
-- In **Dataset 2**, operational indicators such as `attack_type`, `action_taken`, `anomaly_scores`, and `severity_level` also showed **weak differences** between groups.
+- In **Cyber Security Attacks**, operational indicators such as `attack_type`, `action_taken`, `anomaly_scores`, and `severity_level` also showed **weak differences** between groups.
 
 - The statistical tests did **not** provide enough evidence for strong significant differences in the tested cases.
 
